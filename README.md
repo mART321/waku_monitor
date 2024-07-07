@@ -48,7 +48,7 @@ Description=Waku Node Health Service
 After=network-online.target
 
 [Service]
-User=waku
+User=User
 WorkingDirectory=$HOME
 ExecStart=/bin/bash $HOME/monitoring-waku.sh
 Restart=always
