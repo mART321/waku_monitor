@@ -1,6 +1,6 @@
 ## Waku Node Monitoring Script
 
-This script monitors the status of a Waku node and sends Telegram notifications in case of errors or node shutdown. Developed by ITRocket for the community, it enhances the functionality of the existing Waku node script.
+This script monitors the status of a Waku node and sends Telegram notifications in case of errors or node shutdown. Developed by ITRocket for the community, it enhances the functionality of the existing Waku node script.You can find the code that was used as the source script at ~/nwaku-compose/chkhealth.sh.
 
 ### Description
 
