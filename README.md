@@ -57,6 +57,7 @@ RestartSec=5
 WantedBy=multi-user.target
 EOF
 ```
+Don't forget to specify the user in the "User=" line.
 
 **Step 3: Enable and Start the Service**
 
