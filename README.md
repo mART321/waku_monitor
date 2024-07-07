@@ -1,6 +1,3 @@
-# waku_monitor
----
-
 # Waku Node Monitoring Script
 
 This script was created to monitor the state of the Waku node and send notifications to Telegram in case of errors or node shutdown. The script is developed for the community by ITRocket, based on the existing Waku node script to improve functionality and usability.
